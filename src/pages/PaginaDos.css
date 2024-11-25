@@ -1,0 +1,20 @@
+.contenedor-dos .rojo{
+    position: absolute;
+    left: 985px;
+    top: 10px;
+}
+.contenedor-dos .morado{
+    position: relative;
+    left: 190px;
+    top: 10px;
+}
+.contenedor-dos .azul{
+    position: relative;
+    left: 190px;
+    top: -130px;
+}
+.contenedor-dos .rosa{
+    position: relative;
+    left: 11px;
+    top: 175px;
+}

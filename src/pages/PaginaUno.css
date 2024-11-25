@@ -1,20 +1,32 @@
 .rojo{
-    width: 100px;
-    height: 200px;
+    width: 160px;
+    height: 360px;
     background-color: #A30B03;
+    position: absolute;
+    left: 200px;
+    top: 10px;
 }
 .morado{
-    width: 100px;
+    width: 175px;
     height: 200px;
     background-color: #940C8D;
+    position: absolute;
+    left: 10px;
+    top: 10px;
 }
 .azul{
-    width: 100px;
-    height: 200px;
+    width: 175px;
+    height: 305px;
     background-color: #4420D4;
+    position: absolute;
+    left: 10px;
+    top: 220px;
 }
 .rosa{
-    width: 100px;
-    height: 200px;
+    width: 160px;
+    height: 150px;
     background-color: #F748BD;
+    position: absolute;
+    left: 200px;
+    top: 375px;
 }

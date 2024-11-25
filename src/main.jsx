@@ -11,6 +11,7 @@ createRoot(document.getElementById('root')).render(
       <section className='contenedor-uno'>
         <PaginaUno/>
       </section>
+      <div className='separador'></div>
       <section className='contenedor-dos'>
         <PaginaDos/>
       </section>
